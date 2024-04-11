@@ -45,7 +45,7 @@ in [the original book](https://book.impress.co.jp/books/1122101041) to Pyxel/Pyt
 and changed to a retro color tone.
 Shoot the ball and compete for the time to hit all the pegs.
 
-<img src="https://github.com/jay-kumogata/Pyxel2D/blob/main/screenshots/Peg02.gif" width=275>
+<img src="https://github.com/jay-kumogata/Pyxel2D/blob/main/screenshots/Peg02.gif" width=240>
 
 ### How to Run
 
